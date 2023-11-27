@@ -1,6 +1,6 @@
 # Light Speed
 
-An insanely fast and performance-based Zola theme, ported from [Light Speed Jekyll](https://github.com/bradleytaunt/lightspeed).
+An insanely fast and performance-based Zola theme, forked from [lightspeed](https://github.com/carpetscheme/lightspeed) which is ported from [Light Speed Jekyll](https://github.com/bradleytaunt/lightspeed).
 
 Some fun facts about the theme:
 
@@ -9,7 +9,7 @@ Some fun facts about the theme:
 * No JavaScript
 * Now with SEO!
 
-Demo: [quirky-perlman-34d0da.netlify.com](https://quirky-perlman-34d0da.netlify.com)
+Demo: [Myblog](https://kirovj.github.io)
 
 -----
 
@@ -30,7 +30,7 @@ First download this theme to your `themes` directory:
 
 ```bash
 $ cd themes
-$ git clone https://github.com/carpetscheme/lightspeed.git
+$ git clone https://github.com/kirovj/lightspeed.git
 ```
 and then enable it in your `config.toml`:
 
@@ -117,7 +117,7 @@ compile_sass = true
 ...and placing a replacement `style.scss` file in your sass folder.
 
 ## Original
-This template is based on the Jekyll template [Light Speed Jekyll](https://github.com/bradleytaunt/lightspeed) by Bradley Taunt.
+This template is based on [lightspeed](https://github.com/carpetscheme/lightspeed) by carpetscheme which is based on the Jekyll template [Light Speed Jekyll](https://github.com/bradleytaunt/lightspeed) by Bradley Taunt.
 
 ## License
 
